@@ -1,17 +1,8 @@
 ### [http://localhost:8042](http://localhost:8042)
 
-### `master` is the development branch. gh-pages contains only the smaller dist folder only and is served to aquachain.github.io/MyAquaWallet
-
-- Our infrastructure ("node") is on AWS. [You can also use your own node.](https://myaquawallet.github.io/knowledge-base/networks/run-your-own-node-with-myaquawallet.html)
-- We also provide access to Infura.io & Aquascan.io nodes. Use the drop-down in the top-right.
-
-
 ### MyAquaWallet
 
-- MyAquaWallet is a free, open-source, client-side tool for easily & securely interacting with the Aquachain network. As one of the leading providers of Aquachain services, MyAquaWallet equips users with an easy-to-understand and accessible suite of tools for their needs.
-
-
-- It was created as MyEtherWallet and maintained by [kvhnuke](https://github.com/kvhnuke) and [tayvano](https://github.com/tayvano).
+- MyAquaWallet is a free, open-source, client-side tool for easily & securely interacting with the Aquachain network via local aquachain rpc server. You must have aquachain running with the `-rpc` flag while using MAW
 
 #### Features
 
