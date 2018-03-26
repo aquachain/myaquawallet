@@ -1,0 +1,13 @@
+{
+    "name": "MyAquaWallet",
+    "version": "3.11.3.3",
+    "description": "An NPM dist of MyAquaWallet. For easier downloading & updating via CLI.",
+    "author": "MyAquaWallet",
+    "license": "ISC",
+    "devDependencies": {
+        "open": "0.0.5"
+    },
+    "bin": {
+        "mew": "bin/startMEW.js"
+    }
+}
